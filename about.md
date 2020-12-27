@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Nama saya Satrio Wibowo inisial Sa3owibowo adalah orang yang membosankan, bodoh, dan tidak kompeten.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cipol@satriowibowo.com](mailto:cipol@satriowibowo.com)
