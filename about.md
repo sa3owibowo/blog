@@ -8,4 +8,4 @@ Nama saya Satrio Wibowo inisial Sa3owibowo adalah orang yang membosankan, bodoh,
 
 ### Contact me
 
-[cipol@satriowibowo.com](mailto:cipol@satriowibowo.com)
+Email: [cipol@satriowibowo.com](mailto:cipol@satriowibowo.com)
