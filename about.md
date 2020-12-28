@@ -15,4 +15,4 @@ Dari lulus SMP sampai selesai kuliah pun saya masih di kota Indramayu, pada tahu
 Menulis adalah salah satu hobi saya, dulu pernah punya blog dari blogger dan memiliki teman sesama penulis di blog itu menyenakan ibarat kata mereka semua itu adalah sahabat pena bagi saya, lambat laun mereka pada hengkang pindah web engine satu persatu. Dari situ saya mulai jenuh & berhenti menulis. Hingga saat ini saya menemukan media baru untuk menulis yaitu "Github".
 ### Contact me
 
-Email: [cipol@satriowibowo.com](mailto:cipol@satriowibowo.com)
+Email: [wiz@satriowibowo.com](mailto:wiz@satriowibowo.com)
