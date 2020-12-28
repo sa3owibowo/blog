@@ -4,15 +4,11 @@ title: Tentang Saya
 permalink: /about/
 ---
 
-Nama saya Satrio Wibowo dan saya termasuk orang yang membosankan, bodoh, dan tidak kompeten.
+Hai teman! nama saya Satrio Wibowo, biasa dipanggil Rio. Saya lahir di kota Palembang pada tanggal 15 bulan maret tahun 1991 dan saya adalah anak kedua dari dua bersaudara atau bisa disebut juga sebagai anak bungsu dari dua bersaudara.
 
-Saya lahir di kota Palembang pada tanggal 15 bulan maret tahun 1991 dan saya adalah anak kedua dari dua bersaudara atau bisa disebut juga sebagai anak bungsu dari dua bersaudara.
+Menulis adalah suatu hobi bagiku, saya ini blogger dan memiliki teman sesama penulis di blog itu menyenangkan ibarat kata mereka semua itu adalah sahabat pena bagiku. Pernah merasa jenuh & berhenti menulis. Hingga saat ini saya menemukan media baru untuk menulis yaitu "Github".
 
-Sejak kecil di kota Palembang hingga saya masuk SMP, saya dan orangtua pindah ke kota Indramayu dikarenakan pekerjaan orangtua pindah di kota tersebut.
-
-Dari lulus SMP sampai selesai kuliah pun saya masih di kota Indramayu, pada tahun 2017 saya menikah & berkeluarga sampai memiliki seorang buah hati.
-
-Menulis adalah salah satu hobi saya, dulu pernah punya blog dari blogger dan memiliki teman sesama penulis di blog itu menyenakan ibarat kata mereka semua itu adalah sahabat pena bagi saya, lambat laun mereka pada hengkang pindah web engine satu persatu. Dari situ saya mulai jenuh & berhenti menulis. Hingga saat ini saya menemukan media baru untuk menulis yaitu "Github".
+Selain ngeblog, saya juga hobi menulis puisi dalam berbagai bahasa: HTML, CSS, PHP, dan masih banyak lagi.
 ### Contact me
 
 Email: [wiz@satriowibowo.com](mailto:wiz@satriowibowo.com)
