@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Cara Mengarahkan Domain Lama ke Domain Baru
 ---
 ## Cara Mengarahkan Domain Lama ke Domain Baru
 
