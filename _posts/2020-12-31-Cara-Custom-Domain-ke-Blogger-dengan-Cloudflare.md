@@ -34,15 +34,12 @@ Catatan: **Pastikan anda telah menambahkan 4 A record yang berisi 4 IP address d
 
 **4. Menambahkan A Record**<br/>
 Nah, step ini merupakan hal yang penting karena anda harus mengarahkan IP Address Blogspot/ Blogger ke domain yang anda miliki. Masukkan A record lalu isikan hostname dan IP address dari blogger. Adapun IP address dari blogger/ blogger sendiri yaitu,
-<pre><code>
-216.239.32.21
- 
-216.239.34.21
- 
-216.239.36.21
- 
+
+> 216.239.32.21<br/>
+216.239.34.21<br/>
+216.239.36.21<br/>
 216.239.38.21
-</pre></code>
+
 Isikan satu persatu IP Address Blogspot tersebut. Jangan lupa klik `Save Changes`.
 
 ![_custom domain](https://www.domainesia.com/asset/uploads/2018/01/Selection_244.png)
