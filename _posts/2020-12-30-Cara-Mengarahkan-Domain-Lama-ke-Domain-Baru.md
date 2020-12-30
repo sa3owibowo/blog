@@ -3,6 +3,7 @@ layout: post
 title: Cara Mengarahkan Domain Lama ke Domain Baru
 ---
 Hal ini dilakukan ketika kamu ingin mengarahkan website dari domain lama ke domain baru secara menyeluruh.
+
 Sebagai contoh,<br/>
 Domain lama: _domainlama(dot)com_<br/>
 Ingin diarahkan ke domain baru : _domainbaru(dot)com_
