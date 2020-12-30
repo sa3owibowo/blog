@@ -5,8 +5,8 @@ title:  Cara Custom Domain ke Blogger dengan Cloudflare
 Adapun langkah- langkah dalam custom domain ke blogger melalui cloudflare yaitu,
 
 **1. Mendaftar Cloudflare**<br/>
-Langkah awal untuk memasang custom domain Blogger dengan Cloudflare adalah membuat akun di websitenya. Buka alamat berikut dan lakukan registrasi seperti biasa.
-`https://www.cloudflare.com`
+Langkah awal untuk memasang custom domain Blogger dengan Cloudflare adalah membuat akun di websitenya. Buka alamat berikut dan lakukan registrasi seperti biasa.<br/>
+`https://www.cloudflare.com`<br/>
 Gratis kok, ikuti saja semua langkahnya.
 
 **2. Melakukan Pengaturan di Akun Blogspot**<br/>
