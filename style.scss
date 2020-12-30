@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: #fff;
+	color: #465760;
+	font-family: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+	font-size: 1.25rem;
+	line-height: 1.625;
 }
 
 .container {
