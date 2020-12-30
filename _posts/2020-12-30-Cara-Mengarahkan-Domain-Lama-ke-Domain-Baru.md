@@ -6,6 +6,7 @@ Hal ini dilakukan ketika kamu ingin mengarahkan website dari domain lama ke doma
 > Sebagai contoh,<br/>
 Domain lama: domainlama(dot)com<br/>
 Ingin diarahkan ke domain baru : domainbaru(dot)com
+
 Yang harus kamu lakukan yaitu:
 1. Persiapkan `domain baru`.
 2. Jika sudah, silakan buat `file .htaccess` di folder public_html.
