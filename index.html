@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="posts">
+{% if post.tags.size > 0 %}
+  # Display tags
+{% endif %}
   {% for post in site.posts %}
     <article class="post">
 
