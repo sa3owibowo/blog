@@ -78,7 +78,7 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # To enable pagination for posts on your blog, add a line to the _config.yml file that specifies how many items should be displayed per page:
-paginate: 2
+paginate: 5
 paginate_path: "/page:num/"
 
 # Exclude these files from your production _site
