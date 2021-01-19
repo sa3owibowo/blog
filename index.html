@@ -3,9 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-{% if post.tags.size > 0 %}
-  # Display tags
-{% endif %}
+Tag{% if post.tags.size > 1 %}s{% endif %}:
   {% for post in site.posts %}
     <article class="post">
 
