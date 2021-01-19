@@ -13,8 +13,6 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      Tag{% if post.tags.size > 1 %}s{% endif %}:
-      {{ post.tags | sort | join: ", " }}
     </article>
   {% endfor %}
 </div>
