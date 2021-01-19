@@ -79,6 +79,7 @@ gems:
 
 # To enable pagination for posts on your blog, add a line to the _config.yml file that specifies how many items should be displayed per page:
 paginate: 2
+paginate_path: "/page:num/"
 
 # Exclude these files from your production _site
 exclude:
