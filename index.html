@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="posts">
-Tag{% if post.tags.size > 1 %}s{% endif %}:
+{% if post.tags.size > 0 %}
+  Tag{% if post.tags.size > 1 %}s{% endif %}:
+  {{ post.tags | sort | join: ", " }}
+{% endif %}
   {% for post in site.posts %}
     <article class="post">
 
