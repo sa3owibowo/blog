@@ -11,4 +11,4 @@ Menulis adalah suatu hobi bagiku, saya ini blogger dan memiliki teman sesama pen
 Selain ngeblog, saya juga hobi menulis puisi dalam berbagai bahasa: HTML, CSS, PHP, dan masih banyak lagi.
 ### Contact me
 
-Email: [wiz@satriowibowo.com](mailto:wiz@satriowibowo.com)
+Email: [yo@satriowibowo.com](mailto:yo@satriowibowo.com)
