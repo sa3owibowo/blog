@@ -3,11 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Satrio Wibowo Blog
+name: Blog: Satrio Wibowo
 
 # Short bio or description (displayed in the header)
-description: Just a Lamer!
-
+description: Semacam blog berisi curhatan, catatan, serta esai ringan seputar kisah kehidupan sehari-hari.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/index-logo.jpg
 
@@ -27,7 +26,7 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon
   twitter: sa3owibowo
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/sa3owibowo"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -37,11 +36,11 @@ footer-links:
 disqus: sa3owibowo
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-FV17QBRF64
+google_analytics: 
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your website URL (e.g. http://sa3owibowo.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://wibowo.cyou
+url: http://sa3owibowo.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
