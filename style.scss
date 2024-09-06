@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: #fff;
-	color: #465760;
+	background: #111;
+	color: #ccc;
 	font-family: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
 	font-size: 1.25rem;
 	line-height: 1.625;
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #FF9800;
   font-weight: bold;
 
   line-height: 1.4;
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #FF9800;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #ddd;
   }
 }
 
@@ -158,7 +158,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #333;
 
   @include mobile {
     text-align: center;
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #FF9800;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #ccc;
   font-size: 16px;
 
   @include mobile {
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #FF9800;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -244,7 +244,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 1em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #333;
 }
 
 .posts > .post:last-child {
@@ -273,9 +273,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #111;
+  background-color: #333;
 }
 
 footer {
