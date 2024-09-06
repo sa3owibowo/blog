@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #FF9800;
+  color: #4183C4;
   font-weight: bold;
 
   line-height: 1.4;
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: #FF9800;
+  color: #4183C4;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #ddd;
+    color: #607D8B;
   }
 }
 
@@ -194,10 +194,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: #FF9800;
+  color: #fff;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #FF9800;
+    color: #fff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
